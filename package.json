@@ -1,0 +1,16 @@
+{
+  "name": "steal-stylus",
+  "version": "1.0.0",
+  "description": "A stylus plugin for StealJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "StealJS",
+    "SystemJS",
+    "Stylus"
+  ],
+  "author": "Matthew Elphick",
+  "license": "MIT"
+}
