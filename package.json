@@ -12,5 +12,13 @@
     "Stylus"
   ],
   "author": "Matthew Elphick",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "steal": "^0.15.0",
+    "systemjs": "^0.19.24"
+  },
+  "dependencies": {
+    "stylus": "^0.54.2"
+  }
 }
